@@ -1,25 +1,25 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Cards](https://codeforces.com/problemset/problem/1220/A) | 600 |  |
-| 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 600 |  |
-| 3 | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) | 600 |  |
-| 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 600 |  |
-| 5 | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | 600 |  |
-| 6 | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | 700 |  |
-| 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 700 |  |
-| 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 700 |  |
-| 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 |  |
-| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |  |
-| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
+| 1 | [Cards](https://codeforces.com/problemset/problem/1220/A) | 600 |solved |
+| 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 600 | S |
+| 3 | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) | 600 |S  |
+| 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 600 | S |
+| 5 | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | 600 |S  |
+| 6 | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | 700 | S |
+| 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 700 | S |
+| 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 700 |S  |
+| 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 | S |
+| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |S  |
+| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 | S |
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
-| 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
+| 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 | S |
 | 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 | stuck here|
-| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 |  |
+| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 |S |
 | 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 |  |
 | 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 |  |
 | 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
