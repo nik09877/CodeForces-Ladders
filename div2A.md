@@ -46,7 +46,7 @@
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 |  |
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 |  |
-| 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 |  |
+| 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 | S |
 | 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
 | 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 |  |
 | 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
@@ -54,7 +54,7 @@
 | 52 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
 | 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
 | 54 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
-| 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 |  |
+| 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 | S |
 | 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 |  |
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 |  |
 | 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
