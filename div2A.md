@@ -93,7 +93,7 @@
 | 91 | [Optimal Currency Exchange](https://codeforces.com/problemset/problem/1214/A) | 1300 | stuck |
 | 92 | [Packets](https://codeforces.com/problemset/problem/1037/A) | 1300 | no idea at all |
 | 93 | [Single Wildcard Pattern Matching](https://codeforces.com/problemset/problem/1023/A) | 1300 | dp |
-| 94 | [Tritonic Iridescence](https://codeforces.com/problemset/problem/957/A) | 1300 |  |
+| 94 | [Tritonic Iridescence](https://codeforces.com/problemset/problem/957/A) | 1300 | STUCK |
 | 95 | [Lesha and array splitting](https://codeforces.com/problemset/problem/754/A) | 1300 | almost did it |
 | 96 | [The Monster](https://codeforces.com/problemset/problem/787/A) | 1300 | extended euclidean |
 | 97 | [Kirill And The Game](https://codeforces.com/problemset/problem/842/A) | 1300 | easy but got stuck a bit |
