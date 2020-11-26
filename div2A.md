@@ -89,7 +89,7 @@
 | 87 | [Jamie and Alarm Snooze](https://codeforces.com/problemset/problem/916/A) | 1200 |  |
 | 88 | [Vladik and flights](https://codeforces.com/problemset/problem/743/A) | 1200 |  |
 | 89 | [The Artful Expedient](https://codeforces.com/problemset/problem/869/A) | 1200 |  |
-| 90 | [Check the string](https://codeforces.com/problemset/problem/960/A) | 1200 |  |
+| 90 | [Check the string](https://codeforces.com/problemset/problem/960/A) | 1200 | S |
 | 91 | [Optimal Currency Exchange](https://codeforces.com/problemset/problem/1214/A) | 1300 |  |
 | 92 | [Packets](https://codeforces.com/problemset/problem/1037/A) | 1300 | no idea at all |
 | 93 | [Single Wildcard Pattern Matching](https://codeforces.com/problemset/problem/1023/A) | 1300 | dp |
