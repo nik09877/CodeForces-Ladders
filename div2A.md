@@ -91,8 +91,8 @@
 | 89 | [The Artful Expedient](https://codeforces.com/problemset/problem/869/A) | 1200 |  |
 | 90 | [Check the string](https://codeforces.com/problemset/problem/960/A) | 1200 |  |
 | 91 | [Optimal Currency Exchange](https://codeforces.com/problemset/problem/1214/A) | 1300 |  |
-| 92 | [Packets](https://codeforces.com/problemset/problem/1037/A) | 1300 |  |
-| 93 | [Single Wildcard Pattern Matching](https://codeforces.com/problemset/problem/1023/A) | 1300 |  |
+| 92 | [Packets](https://codeforces.com/problemset/problem/1037/A) | 1300 | no idea at all |
+| 93 | [Single Wildcard Pattern Matching](https://codeforces.com/problemset/problem/1023/A) | 1300 | dp |
 | 94 | [Tritonic Iridescence](https://codeforces.com/problemset/problem/957/A) | 1300 |  |
 | 95 | [Lesha and array splitting](https://codeforces.com/problemset/problem/754/A) | 1300 | almost did it |
 | 96 | [The Monster](https://codeforces.com/problemset/problem/787/A) | 1300 | extended euclidean |
