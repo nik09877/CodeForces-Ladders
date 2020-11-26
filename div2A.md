@@ -94,7 +94,7 @@
 | 92 | [Packets](https://codeforces.com/problemset/problem/1037/A) | 1300 |  |
 | 93 | [Single Wildcard Pattern Matching](https://codeforces.com/problemset/problem/1023/A) | 1300 |  |
 | 94 | [Tritonic Iridescence](https://codeforces.com/problemset/problem/957/A) | 1300 |  |
-| 95 | [Lesha and array splitting](https://codeforces.com/problemset/problem/754/A) | 1300 |  |
+| 95 | [Lesha and array splitting](https://codeforces.com/problemset/problem/754/A) | 1300 | almost did it |
 | 96 | [The Monster](https://codeforces.com/problemset/problem/787/A) | 1300 | extended euclidean |
 | 97 | [Kirill And The Game](https://codeforces.com/problemset/problem/842/A) | 1300 | easy but got stuck a bit |
 | 98 | [Birthday](https://codeforces.com/problemset/problem/1068/A) | 1300 | Stuck |
