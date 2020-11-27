@@ -60,7 +60,7 @@
 | 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 | pretty tough |
 | 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | S |
 | 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | tricky easy |
-| 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 |  |
+| 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 | S |
 | 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 |  |
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 |  |
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 |  |
@@ -81,7 +81,7 @@
 | 79 | [Technogoblet of Fire](https://codeforces.com/problemset/problem/1121/A) | 1100 |  |
 | 80 | [Gotta Catch Em' All!](https://codeforces.com/problemset/problem/757/A) | 1100 |  |
 | 81 | [Shell Game](https://codeforces.com/problemset/problem/777/A) | 1100 |  |
-| 82 | [Feed the cat](https://codeforces.com/problemset/problem/955/A) | 1100 |  |
+| 82 | [Feed the cat](https://codeforces.com/problemset/problem/955/A) | 1100 | No |
 | 83 | [Snacktower](https://codeforces.com/problemset/problem/767/A) | 1200 |  |
 | 84 | [Sweet Problem](https://codeforces.com/problemset/problem/1263/A) | 1200 | Tried |
 | 85 | [Row](https://codeforces.com/problemset/problem/982/A) | 1200 | Tried |
