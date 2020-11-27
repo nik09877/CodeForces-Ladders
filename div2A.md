@@ -85,7 +85,7 @@
 | 83 | [Snacktower](https://codeforces.com/problemset/problem/767/A) | 1200 |  |
 | 84 | [Sweet Problem](https://codeforces.com/problemset/problem/1263/A) | 1200 |  |
 | 85 | [Row](https://codeforces.com/problemset/problem/982/A) | 1200 |  |
-| 86 | [Alex and broken contest](https://codeforces.com/problemset/problem/877/A) | 1200 |  |
+| 86 | [Alex and broken contest](https://codeforces.com/problemset/problem/877/A) | 1200 | S |
 | 87 | [Jamie and Alarm Snooze](https://codeforces.com/problemset/problem/916/A) | 1200 |  |
 | 88 | [Vladik and flights](https://codeforces.com/problemset/problem/743/A) | 1200 | S |
 | 89 | [The Artful Expedient](https://codeforces.com/problemset/problem/869/A) | 1200 | observe XOR property |
