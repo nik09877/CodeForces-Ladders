@@ -30,7 +30,7 @@
 | 28 | [Email from Polycarp](https://codeforces.com/problemset/problem/1185/B) | 1200 | tried |
 | 29 | [Ehab Is an Odd Person](https://codeforces.com/problemset/problem/1174/B) | 1200 | no |
 | 30 | [Blown Garland](https://codeforces.com/problemset/problem/758/B) | 1200 | S |
-| 31 | [Godsend](https://codeforces.com/problemset/problem/841/B) | 1200 |  |
+| 31 | [Godsend](https://codeforces.com/problemset/problem/841/B) | 1200 | S |
 | 32 | [Planning The Expedition](https://codeforces.com/problemset/problem/1011/B) | 1200 |  |
 | 33 | [LCM](https://codeforces.com/problemset/problem/1068/B) | 1200 |  |
 | 34 | [Mancala](https://codeforces.com/problemset/problem/975/B) | 1200 |  |
