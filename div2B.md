@@ -36,9 +36,9 @@
 | 34 | [Mancala](https://codeforces.com/problemset/problem/975/B) | 1200 | S |
 | 35 | [High School: Become Human](https://codeforces.com/problemset/problem/987/B) | 1200 | S |
 | 36 | [Cutting](https://codeforces.com/problemset/problem/998/B) | 1200 |  |
-| 37 | [Chloe and the sequence ](https://codeforces.com/problemset/problem/743/B) | 1200 |  |
-| 38 | [Wrath](https://codeforces.com/problemset/problem/892/B) | 1200 |  |
-| 39 | [Kvass and the Fair Nut](https://codeforces.com/problemset/problem/1084/B) | 1200 |  |
+| 37 | [Chloe and the sequence ](https://codeforces.com/problemset/problem/743/B) | 1200 | binary search |
+| 38 | [Wrath](https://codeforces.com/problemset/problem/892/B) | 1200 | tried |
+| 39 | [Kvass and the Fair Nut](https://codeforces.com/problemset/problem/1084/B) | 1200 | S |
 | 40 | [Draw!](https://codeforces.com/problemset/problem/1131/B) | 1300 |  |
 | 41 | [Filling the Grid](https://codeforces.com/problemset/problem/1228/B) | 1300 |  |
 | 42 | [Mahmoud and Ehab and the message](https://codeforces.com/problemset/problem/959/B) | 1300 |  |
