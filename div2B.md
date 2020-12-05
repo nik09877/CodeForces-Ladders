@@ -41,7 +41,7 @@
 | 39 | [Kvass and the Fair Nut](https://codeforces.com/problemset/problem/1084/B) | 1200 | S |
 | 40 | [Draw!](https://codeforces.com/problemset/problem/1131/B) | 1300 |  |
 | 41 | [Filling the Grid](https://codeforces.com/problemset/problem/1228/B) | 1300 |  |
-| 42 | [Mahmoud and Ehab and the message](https://codeforces.com/problemset/problem/959/B) | 1300 |  |
+| 42 | [Mahmoud and Ehab and the message](https://codeforces.com/problemset/problem/959/B) | 1300 | S |
 | 43 | [Messages](https://codeforces.com/problemset/problem/964/B) | 1300 |  |
 | 44 | [Summer sell-off](https://codeforces.com/problemset/problem/810/B) | 1300 |  |
 | 45 | [Rectangles](https://codeforces.com/problemset/problem/844/B) | 1300 |  |
