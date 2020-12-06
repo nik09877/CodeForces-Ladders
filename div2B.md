@@ -45,7 +45,7 @@
 | 43 | [Messages](https://codeforces.com/problemset/problem/964/B) | 1300 |  |
 | 44 | [Summer sell-off](https://codeforces.com/problemset/problem/810/B) | 1300 | S |
 | 45 | [Rectangles](https://codeforces.com/problemset/problem/844/B) | 1300 |  |
-| 46 | [Months and Years](https://codeforces.com/problemset/problem/899/B) | 1300 |  |
+| 46 | [Months and Years](https://codeforces.com/problemset/problem/899/B) | 1300 | S |
 | 47 | [Forgery](https://codeforces.com/problemset/problem/1059/B) | 1300 |  |
 | 48 | [A Tide of Riverscape](https://codeforces.com/problemset/problem/989/B) | 1300 |  |
 | 49 | [Cutting Carrot](https://codeforces.com/problemset/problem/794/B) | 1300 |  |
