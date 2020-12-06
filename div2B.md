@@ -43,7 +43,7 @@
 | 41 | [Filling the Grid](https://codeforces.com/problemset/problem/1228/B) | 1300 |  |
 | 42 | [Mahmoud and Ehab and the message](https://codeforces.com/problemset/problem/959/B) | 1300 | S |
 | 43 | [Messages](https://codeforces.com/problemset/problem/964/B) | 1300 |  |
-| 44 | [Summer sell-off](https://codeforces.com/problemset/problem/810/B) | 1300 |  |
+| 44 | [Summer sell-off](https://codeforces.com/problemset/problem/810/B) | 1300 | S |
 | 45 | [Rectangles](https://codeforces.com/problemset/problem/844/B) | 1300 |  |
 | 46 | [Months and Years](https://codeforces.com/problemset/problem/899/B) | 1300 |  |
 | 47 | [Forgery](https://codeforces.com/problemset/problem/1059/B) | 1300 |  |
