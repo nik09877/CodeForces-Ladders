@@ -49,7 +49,7 @@
 | 47 | [Forgery](https://codeforces.com/problemset/problem/1059/B) | 1300 | N |
 | 48 | [A Tide of Riverscape](https://codeforces.com/problemset/problem/989/B) | 1300 | N |
 | 49 | [Cutting Carrot](https://codeforces.com/problemset/problem/794/B) | 1300 | N |
-| 50 | [Segments](https://codeforces.com/problemset/problem/909/B) | 1300 |  |
+| 50 | [Segments](https://codeforces.com/problemset/problem/909/B) | 1300 | S |
 | 51 | [Beautiful Numbers](https://codeforces.com/problemset/problem/1265/B) | 1300 |  |
 | 52 | [Mike and strings](https://codeforces.com/problemset/problem/798/B) | 1300 |  |
 | 53 | [Position in Fraction](https://codeforces.com/problemset/problem/900/B) | 1300 |  |
