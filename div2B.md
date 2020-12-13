@@ -59,7 +59,7 @@
 | 57 | [Magic Forest](https://codeforces.com/problemset/problem/922/B) | 1300 | N |
 | 58 | [Chtholly's request](https://codeforces.com/problemset/problem/897/B) | 1300 | S |
 | 59 | [An express train to reveries](https://codeforces.com/problemset/problem/814/B) | 1300 |  |
-| 60 | [Parallelogram is Back](https://codeforces.com/problemset/problem/749/B) | 1300 |  |
+| 60 | [Parallelogram is Back](https://codeforces.com/problemset/problem/749/B) | 1300 | S,geometry |
 | 61 | [Dasha and friends](https://codeforces.com/problemset/problem/761/B) | 1300 | deque,almost |
 | 62 | [Build a Contest](https://codeforces.com/problemset/problem/1100/B) | 1300 | S |
 | 63 | [Table Tennis](https://codeforces.com/problemset/problem/879/B) | 1300 | S |
